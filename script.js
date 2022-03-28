@@ -4,7 +4,7 @@
 $(function(){
   $('.text').typed({
     strings: [
-      "f3lixblack.com'a hoşgeldiniz!<br><br>"+"iletişim için <br>"+"&nbsp;&nbsp;me@iahmet.com"
+      "felixkarayel.com'a hoşgeldiniz!<br><br>"+"iletişim için <br>"+"&nbsp;&nbsp;admin@felixkarayel.com"
     ],
     typeSpeed: 0.9,
     showCursor: false
